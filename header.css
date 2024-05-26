@@ -209,7 +209,7 @@ body {
 @media (min-width: 768px) {
 	.container {
 		max-width: 768px;
-        padding: 0 32px;
+		padding: 0 32px;
 	}
 	.logo {
 		margin-right: 440px;
@@ -222,7 +222,7 @@ body {
 @media (min-width: 1280px) {
 	.container {
 		max-width: 1280px;
-        padding: 0 50px;
+		padding: 0 50px;
 	}
 	.header__content {
 		justify-content: space-between;
@@ -272,4 +272,3 @@ body {
 		display: none;
 	}
 }
-
